@@ -1,18 +1,13 @@
-This project explores bike-sharing data from Cyclistic to uncover patterns in user behavior between casual riders and annual members. The goal was to provide actionable business insights that could help increase memberships.
+🧠 **Approach:** Cleaned and prepped the dataset using Excel and PivotTables  
 
-🧠 Approach
-Cleaned and prepped the dataset using Excel and PivotTables
+📊 **Visualizations:** Bar charts, pie chart, ride duration comparisons  
 
-Created visualizations: bar charts, pie chart, ride duration comparisons
+🔍 **Key Questions:** Ride frequency, duration, and bike type usage  
 
-Answered key business questions around ride frequency, duration, and bike type usage
-
-📈 Key Findings
-Casual riders take longer rides, especially on weekends
-
-Members ride more frequently, especially during the workweek
-
-Electric and classic bikes are most popular; docked bikes are rarely used
+🧾 **Key Findings:**  
+- Casual riders take longer rides, especially on weekends  
+- Members ride more frequently during the workweek  
+- Electric and classic bikes dominate; docked bikes are rarely used
 
 📁 Files Included
 Cyclistic_Capstone_Project_Files.zip
